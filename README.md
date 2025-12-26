@@ -1,5 +1,3 @@
-# NTUST_GPA_Assistant
-
 # 台科大 GPA 查詢助手 (NTUST GPA Assistant) 🎓
 
 這是一款專為國立臺灣科技大學學生設計的 Chrome 擴充功能。它可以自動整合「選課系統」與「myNTUST GPA 查詢系統」，讓你在選課時直接在列表看到該課程的歷史 GPA 紀錄，無需手動跳轉。
